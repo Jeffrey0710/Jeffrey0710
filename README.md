@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![Jeffrey0710 wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jeffrey0710)](https://github.com/jeffrey0710/github-readme-stats)
+
+
 <!--
 **Jeffrey0710/Jeffrey0710** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
