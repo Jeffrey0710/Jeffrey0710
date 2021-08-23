@@ -1,7 +1,14 @@
-### Hi there 👋
+<p style="text-align: center;">
+  
+## 👋👨‍💻 Welcome to my Github Profile 👨‍💻👋
+
+[![Jeffrey0710](https://64.media.tumblr.com/tumblr_ljelepFVm61qfjvexo1_r1_500.gifv)](https://64.media.tumblr.com/tumblr_ljelepFVm61qfjvexo1_r1_500.gifv)
+
+### Skills 💻
 
 [![Jeffrey0710 wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jeffrey0710)](https://github.com/jeffrey0710/github-readme-stats)
 
+</p>
 
 <!--
 **Jeffrey0710/Jeffrey0710** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
