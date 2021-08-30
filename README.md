@@ -32,4 +32,7 @@
   
 [![Jeffrey0710 wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jeffrey0710)](https://github.com/jeffrey0710/github-readme-stats)
 
+<img src="https://github.com/<username>/<repository-name>/blob/master/images/codeStats.svg" alt="Alternative Text"/>
+Example: <img src="https://github.com/tariksahni/tariksahni/blob/master/codeStats.svg" alt="My Coding Activity/>
+
   </div>
