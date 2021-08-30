@@ -27,10 +27,15 @@
 </div>
 <img src="https://media3.giphy.com/media/jTVan9YKTLacU/giphy.gif" width="100%" height="1">
 
-<h4 align="center"><samp>👋👨‍💻 Status 👨‍💻👋 </h4>
+<h4 align="center"><samp>👋👨‍💻 Stats 👨‍💻👋 </h4>
 <div align="center"><samp > 
   
-[![Jeffrey's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jeffrey0710)](https://github.com/anuraghazra/github-readme-stats)
+  WakaTime stats [This week] <samp>
+  
+  ![Jeffrey's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime/?username=jeffrey0710&layout=compact&theme=github_dark&show_icons=true)
 
+  GitHub stats [All of times] <samp>
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeffrey0710&layout=compact&theme=github_dark&show_icons=true)  
   
   </div>
