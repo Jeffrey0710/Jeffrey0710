@@ -30,8 +30,7 @@
 <h4 align="center"><samp>👋👨‍💻 Status 👨‍💻👋 </h4>
 <div align="center"><samp > 
   
-[![Jeffrey0710 wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jeffrey0710)](https://github.com/jeffrey0710/github-readme-stats)
+[![jeffrey's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jeffrey0710)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="https://github.com/jeffrey0710/jeffrey0710/blob/master/codeStats.svg" alt="My Coding Activity"/>
 
   </div>
