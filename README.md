@@ -1,4 +1,4 @@
-<h2 align="center"><samp>👋🔥 Welcome to my Profile 🔥👋 </h2>
+<h2 align="center"><samp>👋🔥 My Profile 🔥👋 </h2>
 
 <p align="center">
 
