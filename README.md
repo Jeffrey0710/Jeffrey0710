@@ -10,8 +10,7 @@
 
 <h4 align="center"><samp> 👨‍💻 About me 👨‍💻 </h4>
 
-<p align="center"><samp >🌟I'm Jeffrey Hurtarte 🙋‍♂️ | 🌟21 years old 🎂 | 🌟Programmer 💻 | 🌟Study Systems Engineering 👨‍💻 
-    <br>🌟I love space and maths 🌌👨‍🚀📚</p>
+<p align="center"><samp >🌟I'm Jeffrey Hurtarte 🙋‍♂️ | 🌟23 years old 🎂 | 🌟Programmer 💻 | 🌟Study Systems Engineering 👨‍💻 
 
 <img src="https://media3.giphy.com/media/jTVan9YKTLacU/giphy.gif" width="100%" height="1">
 
